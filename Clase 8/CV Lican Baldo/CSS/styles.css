@@ -1,0 +1,47 @@
+header {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/648/254/non_2x/vector-dark-stage-background-with-blue-rays-of-spotlight-and-falling-sparkling.jpg);
+    line-height: 150px;
+}
+
+body {
+
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/210/300/large_2x/vector-dark-pattern-background.jpg);
+    background-attachment: scroll;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+
+
+h1 {
+    nose xq al escribir cualquier cosa, me centra el nombre en el background.
+    height: 50px;
+    background-color: rgba(33, 33, 70, 0.5);
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-size: 30px;
+    }
+
+.fotocv {
+
+    text-align: center;
+}
+
+.foto {
+
+    border-radius: 20px;
+    text-align: center;
+}
+
+footer {
+
+    background-color: #440d78;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.link {
+
+    text-align: center;
+}
